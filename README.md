@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xandramc17&label=Profile%20views&color=0e75b6&style=flat" alt="xandramc17" /> </p>
 
-- 🌱 I’m currently learning **CompTIA Sec+**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **mia.cutler3717@gmail.com**
 
